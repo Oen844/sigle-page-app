@@ -1,6 +1,5 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,node
+# Created by https://www.toptal.com/developers/gitignore/api/node,windows,macos,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,windows,macos,linux
 
 ### Linux ###
 *~
@@ -193,7 +192,6 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
-
 # Dump file
 *.stackdump
 
@@ -213,4 +211,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,node
+# End of https://www.toptal.com/developers/gitignore/api/node,windows,macos,linux
